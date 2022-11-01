@@ -1,6 +1,7 @@
 # Realtor
-![realtor](https://user-images.githubusercontent.com/76836006/165221792-61abf385-e711-499b-b150-446003a5d105.JPG)
-![realtor2](https://user-images.githubusercontent.com/76836006/165221810-ab5ba082-a030-4626-91b2-1ea24ecea004.PNG)
+![Capture](https://user-images.githubusercontent.com/76736466/199285287-5a780fcd-16c4-4ba2-8165-2b659a277817.PNG)
+![2](https://user-images.githubusercontent.com/76736466/199285349-c82a4b6d-1e9b-43b9-9d3d-fe50c15d9c56.PNG)
+
 
 ## STACK
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Exclusiveideas)
